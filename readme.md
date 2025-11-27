@@ -60,26 +60,12 @@ movie-recommender/
 └── README.md               # This file
 ```
 
----
-
-### Deploy for Free on Streamlit Community Cloud (2 minutes)
-
-1. Push your code to GitHub
-2. Go to [https://share.streamlit.io](https://share.streamlit.io)
-3. Click "New app"
-4. Connect your GitHub repo → select `app.py` → Deploy!
-
-You’ll get a free public URL like:  
-`https://yourusername-movie-recommender.streamlit.app`
-
----
-
 ### Dataset Source
 - [Kaggle: IMDb 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 - Preprocessed and cleaned for this project
 
 
-### Made with ❤️ by [Your Name]
+### Made with ❤️ by [Omkar Kadam]
 **Star this repo if you liked it!**  
 Feel free to fork, improve, and share
 
